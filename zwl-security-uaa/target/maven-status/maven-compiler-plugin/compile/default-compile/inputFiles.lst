@@ -1,0 +1,10 @@
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/controller/AuthController.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/service/SpringDataUserDetailsService.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/dao/UserDao.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/utils/Oauth2Util.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/config/TokenConfig.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/UAAServer.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/dao/PermissionDto.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/config/WebSecurityConfig.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/dao/UserDto.java
+/Users/apple/Downloads/day02资料/代码/distributed-security/zwl-security-uaa/src/main/java/com/zwl/security/uaa/config/AuthorizationServer.java
